@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irshadhuzaifa
+- 👋 Hi, I’m Huzaifa
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python Data Structure/Accessing Web Data
 - 💞️ I’m looking to collaborate on AI Projects
